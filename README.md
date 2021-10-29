@@ -11,8 +11,8 @@
   - 喜爱传统文化、民族音乐，会弹古筝
 
 #### 社交
-  - [GitHub: @DysoDeng](https://github.com/dysodeng)
-  - [Gitee: @DysoDeng](https://gitee.com/dysodeng)
+  - [GitHub: @dysodeng](https://github.com/dysodeng)
+  - [Gitee: @dysodeng](https://gitee.com/dysodeng)
   - [Mail: dysodengs@gmail.com](mailto:dysodengs@gmail.com)
   - [网易云音乐](https://music.163.com/#/user/home?id=268736249)
 
