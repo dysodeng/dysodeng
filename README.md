@@ -13,6 +13,10 @@
   - [Mail: dysodengs@gmail.com](mailto:dysodengs@gmail.com)
   - [网易云音乐](https://music.163.com/#/user/home?id=268736249)
 
+#### 技能标签
+  `PHP` `GoLang` `Docker` `Kubernetes`
+  `JavaScript` `Vue` `Angular` `TypeScript`
+
 <!--
 **dysodeng/dysodeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
