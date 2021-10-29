@@ -1,7 +1,7 @@
 ### 欢迎来到我的GitHub主页
 
 <p>
-  <a href="https://github.com/dysodeng"><img src="https://github-readme-stats.vercel.app/api?username=dysodeng" style="width: 50%; max-width: 50%; min-width: 50%;"></a>
+  <a href="https://github.com/dysodeng"><img src="https://github-readme-stats.vercel.app/api?username=dysodeng" style="width: 51%; max-width: 51%; min-width: 51%;"></a>
   <a href="https://github.com/dysodeng"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dysodeng&layout=compact&count_private=true&theme=default"></a>
 </p>
 
