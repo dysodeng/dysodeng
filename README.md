@@ -1,7 +1,7 @@
 ### 欢迎来到我的GitHub主页
 
 [![My GitHub Data](https://github-readme-stats.vercel.app/api?username=dysodeng)](https://github.com/dysodeng)
-[![xxx](https://github-readme-stats.vercel.app/api/top-langs/?username=dysodeng&layout=compact&count_private=true&theme=default)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=dysodeng&layout=compact&count_private=true&theme=default)](https://github.com/dysodeng)
 
 #### 关于栖枝
   - 互联网从业者，佛系码农，现居成都
