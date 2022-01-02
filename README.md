@@ -15,6 +15,7 @@
   - [Gitee: @dysodeng](https://gitee.com/dysodeng)
   - [Mail: dysodengs@gmail.com](mailto:dysodengs@gmail.com)
   - [网易云音乐](https://music.163.com/#/user/home?id=268736249)
+  - [哔哩哔哩](https://space.bilibili.com/99366167)
 
 #### 技能标签
   `PHP` `Go` `Docker` `Kubernetes`
