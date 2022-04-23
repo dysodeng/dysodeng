@@ -5,7 +5,7 @@
   <a href="https://github.com/dysodeng"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dysodeng&layout=compact&count_private=true&theme=default"></a>
 </p>
 
-#### 关于栖枝
+#### 关于我
   - 佛系码农，现居成都
   - 主力开发语言是Go和PHP，有时也会兼Web前端开发
   - 喜爱中国传统文化、民族音乐，喜弹古筝
