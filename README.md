@@ -5,10 +5,7 @@
   <a href="https://github.com/dysodeng"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dysodeng&layout=compact&count_private=true&theme=default"></a>
 </p>
 
-#### 关于我
-  - 苦逼码农，现居成都
-  - 主力开发语言是Go和PHP，有时也会兼Web前端开发
-  - 喜爱中国传统文化、民族音乐
+桂棹兮兰桨，击空明兮溯流光。渺渺兮予怀，望美人兮天一方。
 
 #### 社交
   - [GitHub: @dysodeng](https://github.com/dysodeng)
